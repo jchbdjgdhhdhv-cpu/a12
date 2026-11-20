@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://buckled.com/sitemap.xml
